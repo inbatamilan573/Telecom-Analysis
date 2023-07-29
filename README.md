@@ -17,3 +17,8 @@ AtliQo is one of the leading telecom providers in India and launched its 5G plan
 𝗔𝗳𝘁𝗲𝗿 𝟱𝗚, 𝗖𝗵𝘂𝗿𝗻 𝗥𝗮𝘁𝗲 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲𝗱 𝗯𝘆 𝟭.𝟵𝟵%.
 
 𝗔𝗳𝘁𝗲𝗿 𝟱𝗚, 𝗶𝗻𝘁𝗲𝗿𝗻𝗲𝘁 𝗰𝗼𝗺𝗯𝗼 𝗽𝗹𝗮𝗻𝘀 𝗮𝗿𝗲 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝘄𝗲𝗹𝗹.
+
+Dashboard:
+
+![Screenshot (113)](https://github.com/inbatamilan573/Telecom-Analysis/assets/61960466/e85cb21e-1e98-4aca-9c07-2f3d913b7973)
+
